@@ -8,7 +8,6 @@
   align-items: center;
   background-color: #313131;
   color: white;
-  padding: .6%;
   font-size: .95rem;
 }
 
@@ -19,6 +18,13 @@
   background-color: #f6f6f6;
   color: #333333;
   font-size: .7rem;
+  height: 110px;
+}
+
+.new{
+  color: #f07d59;
+  font-size: .6rem;
+  margin: 0;
 }
 
 .fa-apple{
@@ -60,6 +66,25 @@
 }
 
 .tenFive{
+  max-height: 55px;
+}
+
+.macbookAir{
+  position: relative;
+  top: 6px;
+}
+
+.macMini{
+  position: relative;
+  top: 22px;
+}
+
+.macMiniNew{
+  position: relative;
+  bottom: 18px;
+}
+
+.miniResize{
   max-height: 55px;
 }
 
