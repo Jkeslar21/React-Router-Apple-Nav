@@ -105,5 +105,56 @@
 }
 
 .iPad{
-  padding: 0 27px;
+  padding: 0 20px;
+}
+
+.ipadSubNav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa;
+  color: #333333;
+  font-size: .7rem;
+  height: 101px;
+  padding-bottom: 12px;
+}
+
+.ten{
+  position: relative;
+  top: 7px;
+}
+
+.smartKey{
+  position: relative;
+  top: 7px;
+}
+
+.compare{
+  position: relative;
+  top: 1px;
+}
+
+.proStyle{
+  position: relative;
+  top: 1px;
+}
+
+.num{
+  font-size: .54rem;
+}
+
+.ipadPro{
+  position: relative;
+  top: 6px;
+}
+
+.iphone{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f2f2f2f2;
+  color: #333333;
+  font-size: .7rem;
+  height: 101px;
+  padding-bottom: 12px;
 }
