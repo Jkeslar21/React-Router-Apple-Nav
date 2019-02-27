@@ -9,10 +9,10 @@ export default function SubNavMac() {
           <p>MacBook</p>
         </div>
         <div className='newLogo macbookAir'>
-        <div className='sub-nav-styling'>
-          <img src='https://www.apple.com/v/mac/home/ae/images/familybrowser/macbookair__by1vem70tkc2_large.svg' />
-          <p>MacBook Air</p>
-        </div>
+          <div className='sub-nav-styling'>
+            <img src='https://www.apple.com/v/mac/home/ae/images/familybrowser/macbookair__by1vem70tkc2_large.svg' />
+            <p>MacBook Air</p>
+          </div>
           <p className='new'>New</p>
         </div>
         <div className='sub-nav-styling'>
@@ -32,11 +32,11 @@ export default function SubNavMac() {
           <p>Mac Pro</p>
         </div>
         <div className='newLogo macMini'>
-        <div className='sub-nav-styling mini'>
-          <img src='https://www.apple.com/v/mac/home/ae/images/familybrowser/macmini__rzlk7b0xsmqq_large.svg' className='miniResize' />
-          <p>Mac mini</p>
-        </div>
-        <p className='new macMiniNew'>New</p>
+          <div className='sub-nav-styling mini'>
+            <img src='https://www.apple.com/v/mac/home/ae/images/familybrowser/macmini__rzlk7b0xsmqq_large.svg' className='miniResize' />
+            <p>Mac mini</p>
+          </div>
+          <p className='new macMiniNew'>New</p>
         </div>
         <div className='sub-nav-styling'>
           <img src='https://www.apple.com/v/mac/home/ae/images/familybrowser/mac_acc__fia3ihqup4ae_large.svg' />
