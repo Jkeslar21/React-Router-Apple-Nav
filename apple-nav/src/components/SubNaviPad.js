@@ -12,11 +12,11 @@ export default function SubNaviPad() {
           <p>iPad Pro<br />10.5"</p>
         </div>
         <div className='sub-nav-styling iPad'>
-          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipadmini_light__br4a8cvnupki_large.svg' className='' />
+          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipadmini_light__br4a8cvnupki_large.svg' className='nineSeven' />
           <p>iPad<br />9.7"</p>
         </div>
         <div className='sub-nav-styling iPad'>
-          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipadmini_light__br4a8cvnupki_large.svg' className='' />
+          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipadmini_light__br4a8cvnupki_large.svg' className='iPadMini4' />
           <p>iPad mini 4</p>
         </div>
         <div className='sub-nav-styling iPad'>
@@ -28,11 +28,11 @@ export default function SubNaviPad() {
           <p>Apple Pencil</p>
         </div>
         <div className='sub-nav-styling iPad'>
-          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/keyboard_light__f6gmbmwm4i6a_large.svg' className='' />
+          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/keyboard_light__f6gmbmwm4i6a_large.svg' className='smartKeyboard' />
           <p>Smart Keyboard</p>
         </div>
         <div className='sub-nav-styling iPad'>
-          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipad_acc_light__f7t99j4r9qem_large.svg' className='' />
+          <img src='https://www.apple.com/v/ipad/home/an/images/chapternav/ipad_acc_light__f7t99j4r9qem_large.svg' className='ipadAccess' />
           <p>Accessories</p>
         </div>
         <div className='sub-nav-styling iPad'>

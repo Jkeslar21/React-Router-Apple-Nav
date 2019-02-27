@@ -1,7 +1,9 @@
 .App{
   text-align: center;
   font-size: 62.5%;
+  margin: auto;
 }
+
 .nav{
   display: flex;
   justify-content: center;
@@ -9,6 +11,7 @@
   background-color: #313131;
   color: white;
   font-size: .95rem;
+  height: 43px;
 }
 
 .mac{
@@ -18,7 +21,8 @@
   background-color: #f6f6f6;
   color: #333333;
   font-size: .7rem;
-  height: 110px;
+  height: 101px;
+  padding-bottom: 12px;
 }
 
 .new{
@@ -69,6 +73,10 @@
   max-height: 55px;
 }
 
+.nineSeven{
+  height: 70px;
+}
+
 .macbookAir{
   position: relative;
   top: 6px;
@@ -84,11 +92,18 @@
   bottom: 18px;
 }
 
-.miniResize{
+.iPadMini4{
   max-height: 55px;
 }
 
+.smartKeyboard{
+  height: 55px;
+}
 
-/* .iPad{
+.ipadAccess{
+  height: 55px;
+}
 
-} */
+.iPad{
+  padding: 0 27px;
+}
