@@ -84,7 +84,7 @@
 
 .macMini{
   position: relative;
-  top: 22px;
+  top: 7px;
 }
 
 .macMiniNew{
@@ -157,4 +157,12 @@
   font-size: .7rem;
   height: 101px;
   padding-bottom: 12px;
+}
+
+.xs, .xr, .eight, .seven, .airpod, .accessiphone, .compareiphone{
+  height: 55px;
+}
+
+.iphonePad{
+  padding: 0 20px;
 }
