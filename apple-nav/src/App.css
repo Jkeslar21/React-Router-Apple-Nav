@@ -1,63 +1,69 @@
-.App {
+.App{
   text-align: center;
+  font-size: 62.5%;
 }
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
 .nav{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  background-color: #333333;
+  background-color: #313131;
   color: white;
-  padding: 1%;
+  padding: .6%;
+  font-size: .95rem;
 }
 
 .mac{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  background-color: #2d2d2d;
-  color: #eeeeee;
+  background-color: #f6f6f6;
+  color: #333333;
+  font-size: .7rem;
 }
 
 .fa-apple{
-  color: #ffffff;
+  color: #fefefe;
+}
+
+.fa-apple:hover{
+  color:#b5b5b5;
 }
 
 .nav-link{
   text-decoration: none;
   color: #eeeeee;
+  padding: 0 37.3px;
 }
-
 .nav-link:hover{
-  color: #ffffff;
+  color: #b5b5b5;
 }
-
-.nav-link:visited{
-  /* color:#999999; */
-  color:#eeeeee;
-}
-
 .sub-nav-styling{
-  padding: 1%;
+  cursor: pointer;
+  padding: 0 18.5px;
 }
+
+.sub-nav-styling p{
+  margin: 0;
+}
+
+.sub-nav-styling p:hover{
+  color: #4c93d2;
+}
+
+.mini{
+  position: relative;
+  bottom: 17px;
+}
+
+.pencil{
+  max-height: 54px;
+}
+
+.tenFive{
+  max-height: 55px;
+}
+
+
+/* .iPad{
+
+} */

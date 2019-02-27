@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 export default function Nav() {
   return (
     <div className='nav'>
-      <Link to='/'><i class="fab fa-apple fa-lg"></i></Link>
+      <Link to='/'><i class="fab fa-apple fa-lg nav-link"></i></Link>
       <Link to='/mac' className='nav-link'>Mac</Link>
-      <Link to='/' className='nav-link'>iPad</Link>
+      <Link to='/ipad' className='nav-link'>iPad</Link>
       <Link to='/' className='nav-link'>iPhone</Link>
       <Link to='/' className='nav-link'>Watch</Link>
       <Link to='/' className='nav-link'>TV</Link>
