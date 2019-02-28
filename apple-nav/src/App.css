@@ -164,5 +164,101 @@
 }
 
 .iphonePad{
-  padding: 0 20px;
+  padding: 0 8px;
+}
+
+.xS-Position{
+  position: relative;
+  right: 72.5px;
+  top: 7px;
+}
+
+.xR-Position{
+  position: relative;
+  right: 83.25px;
+  top: 6px;
+}
+
+.eightPosition{
+  position: relative;
+  right: 74.5px;
+}
+
+.r-Sizing, .s-Sizing{
+  font-size: .5rem;
+}
+
+.sevenPosition{
+  position: relative;
+  right: 49px;
+}
+
+.iOS-Position{
+  position: relative;
+  right: 24px;
+}
+
+.aPodPosition{
+  position: relative;
+  left: 1.3px;
+}
+
+.accessPosition{
+  position: relative;
+  left: 29.3px;
+}
+
+.iphoneComparePosition{
+  position: relative;
+  left: 56px;
+}
+
+.navLogo{
+  position: relative;
+  right: 9px;
+}
+
+.navMac{
+  position: relative;
+  right: 6px;
+}
+
+.naviPad{
+  position: relative;
+  right: 5px;
+}
+
+.naviPhone{
+  position: relative;
+  right: 4px;
+}
+
+.navWatch{
+  position: relative;
+  right: 1px;
+}
+
+.navTV{
+  position: relative;
+  left: 1px;
+}
+
+.navMusic{
+  position: relative;
+  left: 2.8px;
+}
+
+.navSupport{
+  position: relative;
+  left: 5px;
+}
+
+.navSearch{
+  position: relative;
+  left: 7px;
+}
+
+.navBag{
+  position: relative;
+  left: 9px;
 }
